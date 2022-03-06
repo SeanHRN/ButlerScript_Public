@@ -1,7 +1,9 @@
 # Butler Push Script
 ### Version 1.0
 
-This Python script runs butler's push commands to update an itch.io project's distributions with your local Ren'Py distributions. This could be adjusted to upload anything with butler, but by default the name formatting is based on how Ren'Py names things. Customize the channels to fit your project's needs; by default, Linux, Mac, and Windows are assumed.
+This Python script runs butler's push commands to update an itch.io project's distributions with your local Ren'Py distributions. It makes the process have fewer manual steps yet remain just as foolproof.
+
+This could be adjusted to upload anything with butler, but by default the name formatting is based on how Ren'Py names things. Customize the channels to fit your project's needs; by default, Linux, Mac, and Windows are assumed.
 
 ## How to Use
 
